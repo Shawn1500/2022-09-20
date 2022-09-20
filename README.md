@@ -38,9 +38,10 @@ Lucy, Escape From Orasaka's NetRunner, Adventured with David.
 >C
 >>charlie
 
-|Left-Align
-|
-|
-|
-|
-|
+| Left-Aligned  | Center-Aligned  | Right-Aligned |
+| :-------------| :-------------: | -------------:|
+| FutureBass | 2:30mins+ | $2500  |
+
+- [x] Future House
+- [x] Future Bass
+- [x] Bass House
