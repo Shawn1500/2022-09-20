@@ -16,6 +16,8 @@ Just Finished CyberPunk:EdgeRunner, god that was really heart-touched story
 ```
 Lucy, Escape From Orasaka's NetRunner, Adventured with David.
 ```
+***
+##  Layer Out Practice
 
 >A
 >>alpha
@@ -38,6 +40,7 @@ Lucy, Escape From Orasaka's NetRunner, Adventured with David.
 >C
 >>charlie
 ***
+## Table practice
 | Left-Aligned  | Center-Aligned  | Right-Aligned |
 | :-------------| :-------------: | -------------:|
 | FutureBass | `2:30mins+` | $2500  |
