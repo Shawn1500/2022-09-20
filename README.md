@@ -47,13 +47,13 @@ Lucy, Escape From Orasaka's NetRunner, Adventured with David.
 ***
 # **My To-Do List**
 
-- [x] Future House
-- [x] Future Bass
-- [x] Bass House
-- [ ] Dubstep
-- [ ] Lofi
-- [x] Pop
-- [ ] Create my own Web
+> - [x] Future House
+> - [x] Future Bass
+> - [x] Bass House
+> - [ ] Dubstep
+>  - [ ] Lofi
+>  - [x] Pop
+> - [ ] Create my own Web
 
 
 
