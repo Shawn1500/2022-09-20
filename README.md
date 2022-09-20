@@ -2,7 +2,10 @@
 Hi 
 This My First Responsitory
 Just Finished CyberPunk:EdgeRunner, god that was really heart-touched story
-`David`
 
-```Lucy```
+`David` , a lagend of the Night city.
+
+```
+Lucy, Escape From Orasaka's NetRunner
+```
 
