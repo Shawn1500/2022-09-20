@@ -47,7 +47,8 @@ Lucy, Escape From Orasaka's NetRunner, Adventured with David.
 ***
 # **My To-Do List**
 
-```
+` Below Here Is The Genre That I Can Make So Far <3 `
+
 - [x] Future House
 - [x] Future Bass
 - [x] Bass House
@@ -55,7 +56,6 @@ Lucy, Escape From Orasaka's NetRunner, Adventured with David.
 - [ ] Lofi
 - [x] Pop
 - [ ] Create my own Web
-```
 
 
 
