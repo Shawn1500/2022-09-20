@@ -5,6 +5,8 @@ Just Finished CyberPunk:EdgeRunner, god that was really heart-touched story
 
 [Here To Get CyberPunk2077](https://www.cyberpunk.net/en/edgerunners)
 
+[Get CyberPunk2700 On Steam](https://store.steampowered.com/agecheck/app/1091500/)
+
 <https://www.cyberpunk.net/en/edgerunners>
 
 # **Watch CyberPunk : EdgeRunner On Netflix**
